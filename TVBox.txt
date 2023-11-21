@@ -1,0 +1,6 @@
+这个接口除了影视资源强大外，直播频道也非常多，所以体验方面依旧是非常不错的，关于这方面的软件操作盒子派在前面文章也为大家介绍过，大家可以自行下来测试吧！
+解析接口：
+https://pastebin.com/raw/gtbKvnE1
+https://freed.yuanhsing.cf/TVBox/meowcf.json
+https://pastebin.com/raw/sbPpDm9G
+ 【来源：https://www.hezipie.com/archives/684，转载请注明】
