@@ -15,7 +15,7 @@
 	    
 //影视接口
 
-{"key":"csp_","name":"抖音:袖子哥的4米2房车 收集","type":3,"api":"csp_","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DouDou","name":"抖音:袖子哥的4米2房车 收集","type":3,"api":"csp_DouDou","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_DouDou","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
@@ -31,12 +31,12 @@
 
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-
 {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 
-{"key":"1111","name":"关注公众号 快递超惠寄 优惠寄快递","type":3,"api":"1111","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DouDou","name":"相关技术在B站搜->","type":3,"api":"csp_DouDou","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DouDou","name":"袖子哥的4米2房车","type":3,"api":"csp_DouDou","searchable":1,"quickSearch":1,"filterable":1},		
 
 {"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
