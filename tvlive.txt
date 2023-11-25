@@ -145,7 +145,7 @@ CCTV14,http://59.47.226.94:8880/sql/2605/hls.m3u8
 CCTV15,http://59.47.226.94:8880/sql/2606/hls.m3u8
 
 
-卫视频道90.218,#genre#
+卫视频道,#genre#
 北京卫视,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
 浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
@@ -423,7 +423,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 
-🎬卫视,#genre#
+各地卫视,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
@@ -467,10 +467,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 
 
 移动带宽网络专区,#genre#
@@ -601,7 +597,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
-🇨🇳｜联通带宽网络专区IPTV,#genre#
+联通带宽网络专区,#genre#
 CCTV1,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226118/iptv65795.smil$超清1080P
 CCTV2,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil$超清1080P
 CCTV3,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226726/10000100000000060000000006489752_0.smil$超清1080P
@@ -674,7 +670,7 @@ CGTN法语频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226737/1000010
 兵团卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226464/iptv8889102157.smil$高清720P
 辽宁卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil$高清720P
 
-广东,#genre#
+🇨🇳｜广东,#genre#
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$高清720P
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8$高清720P
 揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420$高清720P
@@ -682,7 +678,7 @@ CGTN法语频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226737/1000010
 汕头综合,http://27.47.68.27:808/hls/24/index.m3u8$高清720P
 汕头综合,http://27.47.68.19:808/hls/24/index.m3u8$高清720P
 
-YY直播,#genre#
+🎬YY直播,#genre#
 YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 
@@ -960,11 +956,12 @@ CNA(1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebb
 
 少儿频道,#genre#
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 嘉佳卡通,http://v2.91kds.cn/b9/itouchtv.m3u8?id=gdjjkt&auth=rinimabi
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
