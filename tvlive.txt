@@ -671,12 +671,34 @@ CGTN法语频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226737/1000010
 辽宁卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil$高清720P
 
 🇨🇳｜广东,#genre#
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$高清720P
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8$高清720P
+揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=fa4dca910bfd560fd8f55df7f511f93d&t=66c5991c
 揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420$高清720P
 揭阳公共,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=b9881a0d588081b1979769c128a5e08c&t=639de420$高清720P
+揭阳生活,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=bd69dae297e6f78a0123bc5d484a8228&t=66c5991c
 汕头综合,http://27.47.68.27:808/hls/24/index.m3u8$高清720P
 汕头综合,http://27.47.68.19:808/hls/24/index.m3u8$高清720P
+汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
+汕头经济生活,http://fxhack.f3322.org:8000/udp/239.253.43.46:5146
+汕头新闻生活,http://fxhack.f3322.org:8000/udp/239.253.43.45:5146
+汕头测试1,http://tmpstream.strtv.cn/hygg/sd/live.m3u8
+汕头测试2,https://tmpstream.strtv.cn/xwzh/sd/live.m3u8
+汕头测试3,https://tmpstream.strtv.cn/xwsh/sd/live.m3u8
+汕头测试4,https://tmpstream.strtv.cn/xwzh/hd/live.m3u8
+汕头测试5,https://tmpstream.strtv.cn/xwsh/hd/live.m3u8
+东莞新闻综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv2
+东莞生活,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1
+东莞测试3,rtmp://stream.sun0769.com/dgrtv1/mp4:tv3
+云浮综合,http://livestream.oeeee.com/slive/17807.m3u8
+云浮文旅,http://livestream.oeeee.com/slive/17806.m3u8
+阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
+阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
+江门生活,http://tidelive.jmtv.cn/lsdream/qzohscw/993/g2lq4o0.m3u8
+江门综合,http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/253p400.m3u8
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$高清720P
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8$高清720P
+河源新闻综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源测试,https://tmpstream.hyrtv.cn/hygg/hd/live.m3u8
 
 🎬YY直播,#genre#
 YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
