@@ -1,5 +1,5 @@
 //以下全部出自网络和大佬资源。[所有内容仅供学习使用，请勿用于违法用途]
-//为 抖音:袖子哥的4米2房车 整理收集，如有冒犯各位接口所属大神，请联系删除。--2023223
+//为 抖音:袖子哥的4米2房车 整理收集，如有冒犯各位接口所属大神，请联系删除。--20231205
 
 //此版本把港澳台移出密码列
 
@@ -19,6 +19,7 @@
 //潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd#http://hlgzs.icu/php/jsgdtv.php?id=chaozhouertao_1500
 //潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 //潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=1&pid=&cid=30&d=61bc79e2f63c4cd8&sid=CmNPKV7onxL6V9Rrn3rf8w==&r=20231102150930&e=20231102210935&nc=oAOFVOfZSTss&a=1&v=2
+
 
 💎央视💎,#genre#
 CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
@@ -818,10 +819,15 @@ TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_1793022
 周星驰,http://159.75.85.63:35455/huya/11342412
 林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 
-抖音&b站:袖子哥的4米2房车 整理收集,#genre#
+
+
+袖子哥的4米2房车 整理收集,#genre#
 抖音&b站:，https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-袖子哥的4米2房车，https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-整理收集,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
+袖子哥的4米2房车，http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
+整理收集,https://vd2.bdstatic.com/mda-ncm7bqn1fvayqcac/sc/cae_h264_delogo/1647926240143319597/mda-ncm7bqn1fvayqcac.mp4
+
+
+
 
 浙江综合,#genre#
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
@@ -1524,7 +1530,13 @@ key=0b292c335e5837e947f9409c59228f3e6
 YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 
-抖音&b站:袖子哥的4米2房车 整理收集,#genre#
+多屏实时,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8?
+多屏实时,http://111.20.40.160/PLTV/88888893/224/3221226337/index.m3u8
+多屏实时,http://111.20.40.160/PLTV/88888893/224/3221226338/index.m3u8
+多屏实时,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+多屏实时,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+袖子哥的4米2房车 整理收集,#genre#
 抖音&b站:，https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-袖子哥的4米2房车，https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-整理收集,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
+袖子哥的4米2房车，http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
+整理收集,https://vd2.bdstatic.com/mda-ncm7bqn1fvayqcac/sc/cae_h264_delogo/1647926240143319597/mda-ncm7bqn1fvayqcac.mp4
