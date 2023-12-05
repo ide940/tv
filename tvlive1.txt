@@ -6,6 +6,7 @@
 本地台,#genre#
 汕头新闻综合,http://gslb.gcable.cn:8070/live/shantouyitaogaoqing_1500.m3u8
 汕头2,http://gslb.gcable.cn:8070/live/shantouertaogaoqing_1500.m3u8
+测试,http://gslb.gcable.cn:8070/live/1426_4500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=1&pid=&cid=30&d=61bc79e2f63c4cd8&sid=CmNPKV7onxL6V9Rrn3rf8w==&r=20231102150930&e=20231102210935&nc=oAOFVOfZSTss&a=1&v=2
 揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=fa4dca910bfd560fd8f55df7f511f93d&t=66c5991c
 揭阳生活,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=bd69dae297e6f78a0123bc5d484a8228&t=66c5991c
 
