@@ -4,7 +4,7 @@
 //此版本把港澳台移出密码列
 
 潮汕地区,#genre#
-汕头新闻综合,http://gslb.gcable.cn:8070/live/shantouyitaogaoqing_1500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=8&pid=&cid=&d=b60131110d72d53&sid=LfGo/65i7+2owDOniEwWhw==&r=20221122024116&e=20221123024121&nc=DSkrjONfhztQ&a=7&v=2
+汕头新闻综合,http://gslb.gcable.cn:8070/live/shantouyitaogaoqing_1500.m3u8?t=8S6lHDnZOXb8fZ91xEBYwg%3D%3D==&u=freeuser&p=8&pid=&cid=&d=004bfc8f56cd2797&sid=LfGo/65i7+2owDOniEwWhw==&r=20221122024116&e=20221123024121&nc=DSkrjONfhztQ&a=7&v=2
 汕头2,http://gslb.gcable.cn:8070/live/shantouertaogaoqing_1500.m3u8
 揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=fa4dca910bfd560fd8f55df7f511f93d&t=66c5991c
 揭阳生活,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=bd69dae297e6f78a0123bc5d484a8228&t=66c5991c
