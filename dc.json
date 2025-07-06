@@ -1,5 +1,6 @@
-//此多仓接口列表为 抖音:袖子哥的4米2房车 整理收集，如有冒犯各位接口所属大神，请联系删除。--20250706更新加速代理 勉
-//转载请注明出处
+//此多仓接口列表为 抖音:袖子哥的4米2房车 整理收集，如有冒犯各位接口所属大神，请联系删除。
+//部分更新来源为http://tvbox.live
+//转载请注明出处 --20250706更新加速代理 勉
 {
     "urls": [
         
@@ -8,11 +9,11 @@
             "name": "🚀抖音:袖子哥的4米2房车 整理收集"
         }, 	
         {
-            "url": "http://饭太硬.top/tv",
+            "url": "http://www.饭太硬.com/tv/",
             "name": "🚀饭太硬线路"
         },                      
         {
-            "url": "http://肥猫.love",
+            "url": "http://肥猫.com",
             "name": "🚀肥猫线路"
         },                   
         {
@@ -23,10 +24,6 @@
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
         },
-        {
-            "url": "http://123.123.com/123.json",
-            "name": "🚀备用-空"
-        },  
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🚀小米线路"
@@ -55,5 +52,83 @@
             "url": "https://weixine.net/ysc.json",
             "name": "🚀运输车(有跑马灯)"
         }
+            {
+     "url": "http://asp.xpgtv.com/a001.asp",
+           "name": "小苹果线路"
+        }, 
+    {
+      "url": "https://盒子迷.top/禁止贩卖",
+      "name": "盒子迷线路"
+    },
+      {
+      "url": "https://tv.xn--11x555b.top/svip",
+      "name": "蜗牛线路"
+    },
+    {
+      "url": "http://meowtv.top/tv",
+      "name": "喵影线路"
+    },
+    { "url": "https://7337.kstore.space/twvip/自用测试.json", 
+        "name": "天微线路"
+    },
+    {
+      "name": "夜猫短剧",
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
+    },
+      {
+      "url": "https://龙伊.top",
+      "name": "龙伊线路"
+    },    {
+      "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
+      "name": "不具名线路"
+    },
+    {
+      "name": "星辰线路",
+      "url": "https://fmbox.cc"
+    },
+    {
+      "name": "拾光线路",
+      "url": "https://d.kstore.dev/download/4708/omg/zy.json"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "肥猫线路"
+    },
+    {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "小米线路"
+    },
+    {
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+      "name": "放牛线路"
+    },
+   {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+      "name": "宝盒线路"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "摸鱼线路"
+    },
+    {
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+      "name": "PG线路"
+    },
+    {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+      "name": "月光线路"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "巧技线路"
+    },
+    {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
+      "name": "荷城线路"
+    },     
+     {
+      "url": "https://xn--xna-mf3g9f.v.nxog.top/m/333.php?ou=公众号欧歌app&mz=1&jar=all&b=欧歌xna",
+      "name": "欧歌线路"
+    }
     ]
 }
