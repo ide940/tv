@@ -15,11 +15,6 @@
 潮州民生,http://183.239.236.91:8088/hls/76/index.m3u8
 潮州综合,http://183.239.236.91:8088/hls/114/index.m3u8
 汕尾新闻,http://183.239.236.91:8088/hls/79/index.m3u8
-1,http://183.239.236.91:8088/hls/1/index.m3u8$1280x720
-2,http://183.239.236.91:8088/hls/2/index.m3u8$1280x720
-3,http://183.239.236.91:8088/hls/3/index.m3u8$1280x720
-99,http://183.239.236.91:8088/hls/99/index.m3u8$1280x720
-
 
 香港频道,#genre#
 
@@ -105,8 +100,6 @@ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 HBO,http://41.205.93.154/HBO/index.m3u8
 AMC 电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC Thrillers,https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-
-
 
 
 央视频道,#genre#
